@@ -120,7 +120,7 @@ class Moteur:
         return self.intersection_sets([self.intersection_sets_terms(must_include), self.union_sets_terms(at_least_one), self.intersection_inv_sets_terms(exclude)])
 
     # Écrivez la méthode print_result(self, search_result, max_results ) qui permet d’afficher le nom et le contenue d’un ensemble de documents (le nombre de résultats à afficher sera déterminé par l’argument ‘max_results’).
-    def print_result(self, search_result, max_results):
+    # def print_result(self, search_result, max_results):
 
 
 
