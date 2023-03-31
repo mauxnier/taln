@@ -25,3 +25,10 @@ print("moteur.search_query('droit AND -fracture'): ", moteur.search_query("droit
 
 """Exercice 2 – Detecter la langue d’une chaine"""
 
+# Ajout de documents
+moteur.add_bulk_lang(["en.txt", "fr.txt", "es.txt"])
+
+# Détection de la langue d’une chaine
+print("moteur.predict_lang('j'aime les pommes'): ", moteur.predict_lang("j'aime les pommes"))
+print("moteur.predict_lang('I like apples'): ", moteur.predict_lang("I like apples"))
+print("moteur.predict_lang('Me gusta las manzanas'): ", moteur.predict_lang("Me gusta las manzanas"))

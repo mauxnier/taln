@@ -1,3 +1,169 @@
-El procesamiento automático del lenguaje natural (TALN) o procesamiento automático del lenguaje (TAL), más conocido como NLP (del inglés: natural language processing) es un campo multidisciplinario que involucra la lingüística, la informática y la inteligencia artificial, que tiene como objetivo crear herramientas de procesamiento del lenguaje natural para varias aplicaciones. No debe confundirse con la lingüística computacional, que tiene como objetivo comprender los lenguajes utilizando herramientas computacionales.
+En el aimara altiplánico, se usan los términos ch'uqi y amqa para designar a la papa, este último relacionado con el verbo amqa- («recoger») y restringido principalmente los tubérculos sacados de la tierra.6​ Dentro de la familia de lenguas quechua, se emplean dos términos para designar a la papa. El primero se corresponde a akshu, presente en variantes centrales de las lenguas quechuas, caso del ancashino o del huanca, aunque también se encuentra en algunas otras variedades, como es el caso del cajamarquino. Por otro lado, la raíz papa se emplea tanto en el quechua sureño como en el quechua norteño (incluida la variante chachapoyana).7​6​ En mapudungun, lengua de los mapuches, se designa a la papa con la palabra poñü.8​
 
-El TALN salió de los laboratorios de investigación para ser implementado gradualmente en aplicaciones informáticas que requieren la integración del lenguaje humano en la máquina. También la PNL a veces se llama ingeniería lingüística. En Francia, el procesamiento automático del lenguaje natural tiene su revista, Automatic Language Processing, publicada por la Asociación para el Procesamiento Automático del Lenguaje (ATALA).
+En español, la palabra «papa» es un préstamo lingüístico del término quechua papa, con el mismo significado. Del cruce entre batata (Ipomoea batatas), palabra originaria de la isla La Española, y papa resulta «patata», nombre que, por la similitud de formas, le fue aplicado en un principio por los conquistadores tanto a la papa como a la batata.9​ «Papa» aparece por escrito por primera vez hacia 1540. Por su parte, «patata» se usa en 1606 con el significado de batata y recién a partir del siglo xviii con el significado de papa. Así, en la mayor parte de España se llaman patatas,2​ excepto en las Islas Canarias y Andalucía Occidental, donde predomina la palabra papa, al igual que en el resto de los países hispanohablantes.1​
+
+Muchos países conocieron la papa a través de España, y por esa razón también adoptaron el término patata. Así el nombre es patata en italiano, griego, euskera y algunas variedades de catalán; patate en francés popular; patatas en tagalo; patates en turco; بطاطس [patatis] en árabe; potato en inglés; potet en noruego; batata en portugués; pataca en gallego y asturiano; patana en occitano; práta en gaélico y potatis en sueco. Los franceses, en cambio, al denominar a esta planta resaltaron dos hechos: su textura similar a la manzana y su característico desarrollo subterráneo. Por este motivo la llamaron pomme de terre («manzana de la tierra»).n. 1​ De ahí se derivaron los nombres terpomo en esperanto; aardappel en neerlandés, y las diversas variantes de Erdäpfel en los dialectos meridionales del alemán (en Austria, Suiza y el sur de Alemania). Un tercer grupo de idiomas debe el nombre vulgar de esta especie al parecido de las papas antiguas con las trufas. En aragonés por ejemplo es trunfa y en dialectos septentrionales del catalán se denomina trumfa.11​ Cuando los españoles llevaron las primeras papas a Italia en el siglo xvi, los italianos del norte las llamaron tartufoli («trufitas»). Tal es, a través de la forma intermedia Tartuffel, el origen del término alemán Kartoffel y todos sus derivados: cartof en rumano; kartof en búlgaro; Картофель [kartófel] en ruso; kartoffel en danés; kartul en estonio; kartafla en islandés; kartupelis en letón y קארטאפל [kartofl] en yídisch o judeoalemán.12​ Del alemán Grundbirne ("pera de tierra") derivan los términos krompir del croata, kumpir en turco, brambory del checo, peruna del finlandés y jordpäron del sueco. En valenciano se usa la palabra creïlla,13​ vocablo que no se usa en otros dialectos catalanes y que se origina por la semejanza en forma con las criadillas.11​
+
+S. tuberosum es una planta herbácea, tuberosa, perenne a través de sus tubérculos, caducifolia (ya que pierde sus hojas y tallos aéreos en la estación fría), de tallo erecto o semidecumbente, que puede medir hasta 1 m de altura.14​
+
+Hoja[editar]
+Las hojas son compuestas, con siete a nueve foliolos (imparipinnadas), de forma lanceolada y se disponen en forma espiralada en los tallos. Son bifaciales, ambas epidermis están compuestas por células de paredes sinuosas en vista superficial. Presentan pelos o tricomas en su superficie, en grado variable dependiendo del cultivar considerado. Los tricomas pueden ser uniseriados, glandulares y con una cabeza pluricelular más o menos esférica.
+
+Tallo[editar]
+Presentan tres tipos de tallos, uno aéreo, circular o angular en sección transversal, sobre el cual se disponen las hojas compuestas y dos tipos de tallos subterráneos: los rizomas y los tubérculos.15​
+
+
+Solanum tuberosum, aspecto de la parte basal de la planta, en la que se muestran los tallos aéreos, los rizomas, los tubérculos y las raíces. En negro, el tubérculo "madre" o "semilla" que dio origen a la planta.
+Tallos aéreos[editar]
+Estos tallos, que se originan a partir de yemas presentes en el tubérculo utilizado como semilla, son herbáceos, suculentos y pueden alcanzar de 0,6 a 1 m de longitud; además, son de color verde, aunque excepcionalmente pueden presentar un color rojo purpúreo. Pueden ser erectos o decumbentes, siendo lo normal que vayan inclinándose progresivamente hacia el suelo en la medida que avanza la madurez de la planta. Los entrenudos son alargados en la subespecie andigena y más bien cortos en la subespecie tuberosum.14​ En la etapa final del desarrollo de las mismas, los tallos aéreos pueden tornarse relativamente leñosos en su parte basal.15​
+
+
+Brotes de Solanum tuberosum creciendo sobre el tubérculo. Estos brotes producirán los tallos aéreos de la planta. Se observan las raíces adventicias pequeñas en la base de los brotes.
+Rizomas[editar]
+Estos tallos rizomatosos están formados por brotes laterales más o menos largos que nacen de la base del tallo aéreo. Nacen alternadamente desde subnudos ubicados en los tallos aéreos y presentan un crecimiento horizontal bajo la superficie del suelo. Cada rizoma, en tanto, a través de un engrosamiento en su extremo distal, genera un tubérculo.15​
+
+Tubérculos[editar]
+El tercer tipo de tallo de la papa es subterráneo y se halla engrosado como una adaptación para funcionar como órgano de almacenamiento de nutrientes, el tubérculo.
+
+
+Tubérculos de papa. Obsérvese los ojos y las lenticelas sobre la superficie.
+rizomas presentan una zona meristemática sub-apical, de donde se originan los tubérculos mediante un engrosamiento radial, producto del alargamiento de las células parenquimáticas y la pérdida de la polaridad de las mismas. Durante la formación del tubérculo, el crecimiento longitudinal del estolón se detiene y las células parenquimáticas de la corteza, de la médula y de regiones perimedulares sufren divisiones y alargamiento. En los tubérculos maduros, existen pocos elementos conductores y no hay un cámbium vascular continuo. Los tubérculos están cubiertos por una exodermis que aparece al romperse la epidermis que va engrosándose con el tiempo. Sobre su superficie existen "ojos", hundimientos para resguardar las yemas vegetativas que originan los tallos, que están dispuestos de forma helicoidal. Además, hay orificios que permiten la respiración, llamados lenticelas. Las lenticelas son circulares y el número de las mismas varía por unidad de superficie, tamaño del tubérculo y condiciones ambientales.16​ Los tubérculos, en definitiva, están constituidos externamente por la peridermis, las lenticelas, los nudos, las yemas y, finalmente, por un fragmento o una cicatriz proveniente de la unión con el rizoma del cual se originaron; internamente se distingue la corteza, el parénquima de reserva, el anillo vascular y el tejido medular. Los tubérculos pueden presentar una forma alargada, redondeada u oblonga; su color, en tanto, puede ser blanco o amarillo (pulpa), violeta, café o rojizo (la cáscara).17​
+Los tubérculos que afloran a ras del suelo adquieren un color verdoso en la parte donde reciben la luz solar por la acumulación superficial de clorofila —de color verde, al igual que las hojas y tallos— responsable, como en la mayor parte de la vegetación, de la fotosíntesis, maximizando así la absorción del CO2 del aire, por asimilación de su átomo de carbono y liberación de sus dos de oxígeno hacía la atmósfera. La parte verde de la papa expuesta a los rayos solares debe eliminarse en la preparación como alimento, debido a su toxicidad.
+
+
+Brotes de Solanum tuberosum creciendo sobre el tubérculo. Estos brotes producirán los tallos aéreos de la planta. Se observan las raíces adventicias pequeñas en la base de los brotes.
+Rizomas[editar]
+Estos tallos rizomatosos están formados por brotes laterales más o menos largos que nacen de la base del tallo aéreo. Nacen alternadamente desde subnudos ubicados en los tallos aéreos y presentan un crecimiento horizontal bajo la superficie del suelo. Cada rizoma, en tanto, a través de un engrosamiento en su extremo distal, genera un tubérculo.15​
+
+Tubérculos[editar]
+El tercer tipo de tallo de la papa es subterráneo y se halla engrosado como una adaptación para funcionar como órgano de almacenamiento de nutrientes, el tubérculo.
+
+
+Tubérculos de papa. Obsérvese los ojos y las lenticelas sobre la superficie.
+rizomas presentan una zona meristemática sub-apical, de donde se originan los tubérculos mediante un engrosamiento radial, producto del alargamiento de las células parenquimáticas y la pérdida de la polaridad de las mismas. Durante la formación del tubérculo, el crecimiento longitudinal del estolón se detiene y las células parenquimáticas de la corteza, de la médula y de regiones perimedulares sufren divisiones y alargamiento. En los tubérculos maduros, existen pocos elementos conductores y no hay un cámbium vascular continuo. Los tubérculos están cubiertos por una exodermis que aparece al romperse la epidermis que va engrosándose con el tiempo. Sobre su superficie existen "ojos", hundimientos para resguardar las yemas vegetativas que originan los tallos, que están dispuestos de forma helicoidal. Además, hay orificios que permiten la respiración, llamados lenticelas. Las lenticelas son circulares y el número de las mismas varía por unidad de superficie, tamaño del tubérculo y condiciones ambientales.16​ Los tubérculos, en definitiva, están constituidos externamente por la peridermis, las lenticelas, los nudos, las yemas y, finalmente, por un fragmento o una cicatriz proveniente de la unión con el rizoma del cual se originaron; internamente se distingue la corteza, el parénquima de reserva, el anillo vascular y el tejido medular. Los tubérculos pueden presentar una forma alargada, redondeada u oblonga; su color, en tanto, puede ser blanco o amarillo (pulpa), violeta, café o rojizo (la cáscara).17​
+Los tubérculos que afloran a ras del suelo adquieren un color verdoso en la parte donde reciben la luz solar por la acumulación superficial de clorofila —de color verde, al igual que las hojas y tallos— responsable, como en la mayor parte de la vegetación, de la fotosíntesis, maximizando así la absorción del CO2 del aire, por asimilación de su átomo de carbono y liberación de sus dos de oxígeno hacía la atmósfera. La parte verde de la papa expuesta a los rayos solares debe eliminarse en la preparación como alimento, debido a su toxicidad.
+
+Raíz[editar]
+
+Tubérculo de papa que se desarrolla en el extremo de un rizoma
+El sistema radical es fibroso, ramificado y extendido más bien superficialmente, pudiendo penetrar hasta 0,8 m de profundidad.
+Las plantas originadas a partir de tubérculos, por provenir de yemas y no de semillas, carecen de radícula; sus raíces, que son de carácter adventicio, se originan a partir de yemas subterráneas. Estas raíces se ubican en la porción de los tallos comprendida entre el tubérculo semilla y la superficie del suelo; por esta razón, el tubérculo debe ser plantado a una profundidad tal que permita una adecuada formación de raíces y de rizomas.
+
+A partir de los primeros estados de desarrollo, y hasta el momento en que comienza la formación de tubérculos, las raíces presentan un rápido crecimiento.18​
+
+Inflorescencia y flor[editar]
+
+Inflorescencia en preantesis
+
+Inflorescencia y flores de la planta de papa
+
+S. tuberosum: flor, detalle.
+La inflorescencia en panícula o cima las cuales nace en el extremo terminal del tallo y el número de flores en cada una puede ir desde una hasta treinta, siendo lo más usual entre siete y quince. El número de inflorescencias por planta y el número de flores por inflorescencia están altamente influenciados por el cultivar. Aproximadamente en el momento en que la primera flor está expandida, un nuevo tallo desarrolla en la axila de la hoja proximal, el cual producirá una segunda inflorescencia.
+
+Las flores tienen de 3 a 4 cm de diámetro, con cinco pétalos unidos por sus bordes que le dan a la corola la forma de una estrella. Las cinco anteras se hallan unidas formado un tubo alrededor del pistilo y presentan una longitud de 5 a 7 mm. El estigma generalmente es excerto más allá del anillo de anteras. La corola puede ser de color blanco o una mezcla más o menos compleja de azul, borravino y púrpura dependiendo del tipo y cantidad de antocianinas presentes.
+Las anteras son de color amarillo brillante, excepto en los clones androestériles en los cuales adoptan un color amarillo claro o amarillo verdoso. Los estigmas son usualmente de color verde, a pesar de que algunos clones pueden presentar estigmas pigmentados. La protrusión de los estigmas por arriba de las anteras puede ir desde esencialmente ausente hasta el estilo tan largo como las anteras. La protrusión del estilo por fuera de la columna de anteras no ocurre hasta el día previo al de la apertura de la flor. Las flores en la ramificación más cercana a la base de la planta son las primeras en abrir y, en general, abren dos o tres por día. Las flores permanecen abiertas por dos a cuatro días lo que da como resultado que cada inflorescencia presente de cinco a diez flores abiertas al mismo tiempo durante el pico de la floración. La receptividad del estigma y la duración de la producción de polen es de aproximadamente dos días. La fertilización ocurre aproximadamente treinta y seis horas después de la polinización.
+
+Es complicado clasificar a esta especie por su modo de reproducción ya que, si bien produce semillas por autofecundación (comportamiento propio de las especies autógamas), exhibe depresión endogámica (característica propia de las especies alógamas). Independientemente de lo anterior, las semillas que se producen en los frutos obtenidos por polinización libre son una mezcla de auto-polinizaciones con polinizaciones cruzadas, siendo las primeras las más numerosas.19​
+
+Los Juegos Olímpicos2​ (JJ. OO.)3​ (Jeux Olympiques en francés y Olympic Games en inglés),Nota 1​ Olimpiadas5​ u Olimpíadas6​ son el mayor evento deportivo internacional multidisciplinario en el que participan atletas de diversas partes del mundo. Los Juegos Olímpicos son considerados la principal competición del mundo deportivo, con más de doscientas naciones participantes.7​ Existen dos tipos: los Juegos Olímpicos de Verano y los Juegos Olímpicos de Invierno, que se realizan con un intervalo de dos años, según la Carta Olímpica: «Los Juegos de la Olimpiada se celebran durante el primer año de una Olimpiada y los Juegos Olímpicos de Invierno durante su tercer año».8​
+
+Los Juegos Olímpicos modernos se inspiraron en los Juegos Olímpicos de la antigüedad del siglo viii a. C. organizados en la antigua Grecia con sede en la ciudad de Olimpia, realizados entre los años 776 a. C. y el 393 de nuestra era. En el siglo xix, surgió la idea de realizar unos eventos similares a los organizados en la antigüedad, los que se concretarían principalmente gracias a las gestiones del noble francés Pierre Frèdy, barón de Coubertin. El barón de Coubertin fundó el Comité Olímpico Internacional (COI) en 1894. Desde entonces, el COI se ha convertido en el órgano coordinador del Movimiento Olímpico, con la Carta Olímpica que define su estructura y autoridad.
+
+La primera edición de los llamados Juegos Olímpicos de la era moderna se llevó a cabo en Atenas, capital de Grecia, a partir del 6 de abril de 1896.9​ Desde aquella oportunidad, han sido realizados cada cuatro años en diversas ciudades del mundo, siendo las únicas excepciones las ediciones de 1916, 1940 y 1944, debido al estallido de la Primera y Segunda Guerra Mundial; así como la postergación de la de 2020 para 2021, debido a la pandemia de COVID-19.
+
+La evolución del movimiento olímpico durante los siglos XX y XXI ha dado lugar a varias modificaciones en los Juegos Olímpicos. Algunos de estos ajustes incluyen la creación de los juegos de invierno para deportes invernales, los Juegos Paralímpicos para atletas con algún tipo de discapacidad y los Juegos Olímpicos de la Juventud para atletas adolescentes. Los Juegos Olímpicos de invierno se realizaron por primera vez en 1924, en la localidad francesa de Chamonix. Originalmente realizados como parte del evento de verano, el COI los consideró como un evento separado retroactivamente, y desde esa fecha comenzaron a realizarse en el mismo año que los juegos originales. Posteriormente, con el fin de potenciar el desarrollo de los eventos invernales, el COI decidió desfasar la realización de los Juegos invernales a partir de Lillehammer 1994. Desde esa fecha, los Juegos Olímpicos de Invierno se realizan en los años pares entre dos Juegos de Verano. Los primeros Juegos Olímpicos de la Juventud de Verano se celebraron en Singapur en 2010, mientras que los Juegos Olímpicos de la Juventud de Invierno se celebraron en Innsbruck en 2012.
+
+El COI ha tenido que adaptarse a una variedad de avances económicos, políticos y tecnológicos. Como resultado, los Juegos Olímpicos se han alejado del amateurismo puro, según lo previsto por Coubertin, para permitir la participación de los atletas profesionales. La creciente importancia de los medios de comunicación de masas inició el tema de patrocinio de las empresas y la comercialización de los Juegos. Grandes boicots se realizaron durante la Guerra Fría en los Juegos de 1980 y 1984.
+
+El Movimiento Olímpico consta de Federaciones Internacionales de cada deporte, Comités Olímpicos Nacionales y Comités Organizadores de cada edición. El COI es responsable de la elección de la ciudad sede. Según la Carta Olímpica, la ciudad anfitriona es responsable de la organización y el financiamiento de los Juegos. El programa olímpico, compuesto por los deportes disputados en los Juegos, también está determinado por el COI. Existen diversos símbolos y ceremonias olímpicas, como la bandera y la antorcha olímpicas, así como las ceremonias de apertura y clausura. Cerca de 13 000 atletas compiten en los Juegos Olímpicos de Verano e Invierno en 33 deportes diferentes y en aproximadamente 400 eventos. Los ganadores del primer, segundo y tercer lugar en cada evento reciben medallas olímpicas: oro, plata y bronce, respectivamente.
+
+Los Juegos Olímpicos modernos tienen su fundamento en los Juegos Olímpicos antiguos —llamados así por celebrarse en la ciudad de Olimpia— que eran fiestas atléticas celebradas desde el año 776 a. C. (la fecha más aceptada), y cada cuatro años, en el santuario de Zeus en Olimpia, Grecia. En la competencia acudían participantes de varias ciudades-estado y reinos de la antigua Grecia. El período de cuatro años era conocido como Olimpiada, fue utilizado por los griegos como una de sus unidades de medida del tiempo. En total, se realizaron 291 ediciones, de los cuales 194 ocurrieron antes de la era común y 97 con posterioridad. Al periodo entre el 776 a. C. corresponde a la primera olimpiada, y el de 389 d. C. al 393 d. C. a la 292.ª y última.10​
+
+Los juegos fueron parte de un ciclo conocido como Juegos Panhelénicos, que incluía también a los Juegos Píticos, los Juegos Nemeos y los Juegos Ístmicos.11​ La modalidad de celebrar competencias y certámenes atléticos tienen un origen más antiguo, con probable datación en la época de la Grecia arcaica, durante el siglo xiii a. C., según se indica en la crónica de Paros, los Juegos Nemeos fueron inaugurados en el 1251 a. C.12​
+
+
+París
+Paris  (francés)
+Capital de Francia
+
+
+
+
+
+
+De arriba abajo y de izquierda a derecha: Vista del Río Sena y la Torre Eiffel, el Metro de París, la Catedral de Notre Dame, el Arco de Triunfo de París, la Ópera Garnier y el Museo del Louvre.
+
+
+Flag of Paris with coat of arms.svg
+Bandera	Grandes Armes de Paris.svg
+Escudo
+Otros nombres: La Ciudad de la Luz
+Lema: «Fluctuat nec mergitur»
+(en latín: «Es batida por las olas, pero no hundida»)
+París ubicada en FranciaParísParís
+Localización de París en Francia
+Wikimedia | © OpenStreetMap
+Mapa interactivo — París y su término municipal
+
+Ubicación de París
+Coordenadas	48°51′24″N 2°21′08″E
+Entidad	Capital de Francia
+ • País	Bandera de Francia Francia
+ • Región	Bandera de Isla de Francia Isla de Francia
+Alcaldesa	Anne Hidalgo (PS)1​
+(Desde 2014)
+Eventos históricos
+ • Fundación	52 a. C. (2075 años) por los romanos
+ • Nombre	«Lutetia Parisiorum»
+Superficie
+ • Total	105,4 km² Ver y modificar los datos en Wikidata
+Altitud
+ • Media	33 m s. n. m.
+ • Máxima	130 m s. n. m.
+ • Mínima	28 m s. n. m.
+Clima	Oceánico Cfb
+Curso de agua	Río Sena
+Población (2012)	Puesto 1.º
+ • Total	2 240 621 hab.2​·3​·4​
+ • Densidad	21 258 hab/km²
+ • Urbana	10 516 110 hab.
+ • Metropolitana	12 292 895 hab.
+Gentilicio	Parisino, -na
+Parisiense
+Huso horario	UTC+01:00 y UTC+02:00
+ • en verano	CEST
+Código postal	75116, 75001, 75002, 75003, 75004, 75005, 75006, 75007, 75008, 75009, 75010, 75011, 75012, 75013, 75014, 75015, 75016, 75017, 75018, 75019, 75020 y 75000
+Prefijo telefónico	1
+Matrícula	75
+Código INSEE	750565​
+Hermanada con	Roma
+Patrono(a)	Genoveva
+Sitio web oficial
+Miembro de: Eurocities y Área metropolitana de París
+[editar datos en Wikidata]
+París (en francés: Paris pronunciado /paʁi/ ( escuchar)) es la capital de Francia y su ciudad más poblada. Capital de la región de Isla de Francia (o "Región Parisina"), constituye el único departamento unicomunal del país.
+
+La ciudad de París, dentro de sus estrechos límites administrativos, tiene una población de 2 273 305 habitantes en 2015.2​ Sin embargo, en el siglo xx, el área metropolitana de París se expandió más allá de los límites del municipio de París, y es hoy en día, con una población de 12,997,058 habitantes en 2020, el área metropolitana más poblada del continente europeo6​ y la 28ª del mundo.4​
+
+La región de París es junto con la de Londres, uno de los núcleos económicos más importantes de Europa.7​ Con 607 000 millones de euros (845 000 millones de dólares), produjo más de una cuarta parte del producto interior bruto (PIB) de Francia en 2011.8​ La Défense es el principal barrio de negocios de Europa,9​ alberga la sede social de casi la mitad de las grandes empresas francesas, así como la sede de veinte de las cien más grandes del mundo.
+
+Durante el siglo xix junto con la ciudad de Londres, París fue el centro de desarrollo de proyectos arquitectónicos dentro del marco de la Revolución Industrial y sus famosas exposiciones. Ejemplos de ello son: el Mercado de la Madeleine, en 1824; las Grandes Halles iniciadas en 1853, las Galerie des Machines y la Torre Eiffel ambas realizadas en la exposición de París de 1889.
+
+Conocida también como la «Ciudad de la Luz» (en francés, Ville lumière), es el destino turístico más visitado del mundo, con más de 42 millones de visitantes extranjeros por año.10​ Entre los monumentos de la ciudad figuran la Torre Eiffel, la Catedral de Notre Dame, la Avenida de los Campos Elíseos, el Arco de Triunfo, la Basílica del Sacré Cœur, el Palacio de Los Inválidos, el Panteón, el Arco de la Defensa, la Ópera Garnier y el barrio de Montmartre, entre otros. También museos como el Louvre, el Museo de Orsay y el Museo Nacional de Historia Natural de Francia, así como un extenso sistema de educación superior. París ocupa un lugar importante en el ámbito de la cultura, la gastronomía, la moda y el lujo.
+
+Su nombre proviene del pueblo galo de los parisios (en latín, Parisii). La palabra «París» deriva del latín Civitas Parisiorum (‘la ciudad de los parisi’), designación que predominó sobre Lutecia (cuyo nombre completo era Lutetia Parisii). No se conoce con certeza el origen del nombre de los parisii.
+
+París tiene muchos sobrenombres, el más famoso de los cuales es el de «Ciudad de la Luz» (la Ville lumière), nombre que remite a su fama como centro de las artes y la educación, pero también (y tal vez por lo mismo) a su adopción temprana de la iluminación urbana.
+
+El gentilicio de los habitantes de París es «parisino» que en francés se dice parisien [paʁizjɛ̃]. A veces, los franceses que viven fuera de París se refieren a sus habitantes como parigots [paʁigo], pero el término, antaño despectivo, ha sido adoptado por los parisinos y ha perdido esa connotación.
+
+Jacques-Antoine Dulaure dio una explicación posible al origen del nombre de los parisii, asociándolo a la diosa egipcia Isis, a causa del descubrimiento de una estatua de la diosa encontrada en la abadía de Saint-Germain-des-Prés.11​ Esta estatua era delgada, alta, erguida, negra, casi desnuda, vestida con ropa adornada en pliegues alrededor de sus extremidades y se encontraba situada en la pared del lado norte, donde se encontraba el crucifijo de la iglesia: se la llamaba el ídolo de Saint-Germain-des-Prés.12​
+
+París albergó durante la segunda mitad del siglo xix varias exposiciones universales. La más destacada tuvo lugar en 1889 con motivo de la conmemoración del primer centenario de la revolución. Para este evento fue construida la Torre Eiffel que, aunque debía ser desmontada una vez terminada la exposición, continúa actualmente en su emplazamiento original.17​
+
+Siglo xx[editar]
+El siglo xx se inició con la inauguración de la primera línea del Metro de París, cuyas obras habían empezado en 1898. En 1900 se desarrolló otra Exposición Universal, la más notable de París, para la cual se construyeron obras notables de arquitectura que todavía siguen en pie, tales como el Grand Palais, el Petit Palais, la estación y ahora Museo de Orsay, el puente Alejandro III y la Estación de Lyon. En 1919 comenzó la demolición de las fortificaciones que rodeaban París.
+
+
+La 2.ª división del general Leclerc desfila en los Campos Elíseos después de la liberación de París.
+En 1940, en el marco de la Segunda Guerra Mundial, la ciudad fue ocupada por la Wehrmacht como consecuencia del armisticio firmado con la Alemania nazi. París estuvo administrada por las fuerzas de ocupación, que la abandonaron después de cuatro años sin causarle destrozos de consideración, en comparación con los daños sufridos en otras ciudades europeas en esa guerra. Para los aliados París no era una plaza de importancia estratégica y por ello preferían eludir la liberación de París ya que su objetivo era traspasar pronto el Rin. Sin embargo, el general De Gaulle consiguió convencerlos de la necesidad de liberar París ante el temor de que un régimen comunista se instaurara en la república si la resistencia vencía a los alemanes.18​ Tras la liberación, las parisinas sospechosas de colaborar con los alemanes fueron humilladas y rasuradas.19​
