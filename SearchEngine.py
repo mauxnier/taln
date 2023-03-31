@@ -21,10 +21,12 @@ Un index inversé est une correspondance entre le contenu d’un document (les m
 constituent), et sa position dans un ensemble de données. Autrement dit il associe un terme et les
 documents dans lesquels il apparaît.
 """
+import os
 import pickle
 import string
-
-from collections import Counter
+from nltk.stem import WordNetLemmatizer
+from nltk.stem.snowball import SpanishStemmer, FrenchStemmer
+from nltk.corpus import wordnet
 
 """Exercice 1 – Implémentation d’un moteur de recherche"""
 
@@ -311,3 +313,42 @@ class SearchEngine:
             return predicted_lang
         else:
             return "Aucune langue détectée"
+
+    """Exercice 2 - Partie 3 :"""
+
+    # 1. Dans le processus d’indexation, ajouter une fonction permettant d’utiliser une stoplist
+    # en fonction de la langue en paramètre (par exemple, francais.txt, espagnol.txt,
+    # anglais.txt).
+    def add_to_index_lang_stoplist(self, word, doc_lang):
+        """Méthode add_to_index_lang_stoplist"""
+        filepath = "./data/stoplists/"
+        stoplist_file = filepath + doc_lang + 'ST.txt'
+        if not os.path.exists(stoplist_file):
+            print(f"La langue '{doc_lang}' n'est pas prise en charge")
+            return False
+
+        with open(stoplist_file, 'r') as stoplist:
+            data = stoplist.read()
+            if word not in data:
+                return False
+            else:
+                return True
+
+    # 2. Dans le processus d’indexation, ajouter une fonction permettant de lemmatiser le texte
+    # en fonction de la langue en paramètre (par exemple, francais.txt, espagnol.txt,
+    # anglais.txt).
+    def index_lang_lemmatisation(self, word, lang):
+        if lang == 'en':
+            lemmatizer = WordNetLemmatizer()
+            return lemmatizer.lemmatize(word)
+        elif lang == 'fr':
+            lemmatizer = FrenchStemmer()
+            return lemmatizer.stem(word)
+        elif lang == 'es':
+            lemmatizer = SpanishStemmer()
+            return lemmatizer.stem(word)
+        else:
+            print("La langue n'est pas prise en charge")
+
+    # 3. Comparez les résultats obtenus avec et sans prétraitements.
+    # à finir
