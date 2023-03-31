@@ -3,6 +3,7 @@
 Université de Bretagne Sud / ENSIBS
 
 Un petit TP de TALN pour implémenter un moteur de recherche
+
 Année 2022 – 2023
 
 Author : Killian MONNIER
