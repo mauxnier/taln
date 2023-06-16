@@ -1,4 +1,4 @@
-# Traitement automatique du langage naturel
+# Traitement automatique du langage naturel 🗣️
 
 Université de Bretagne Sud / ENSIBS
 
